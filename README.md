@@ -8,4 +8,4 @@
 
 - You are my  ![Visitor Count](https://profile-counter.glitch.me/SWH12/count.svg)  visitor,Thank You!:kissing_heart::kissing_heart:
 - ### My Skill Set
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWH12&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWH12)](https://github.com/SWH12/github-readme-stats)
