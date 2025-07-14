@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=总有人间一两风，填我十万八千梦)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=总有人间一两风，填我十万八千梦&color=000080)
 
 [![github-stats]][home]
 
